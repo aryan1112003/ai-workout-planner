@@ -98,15 +98,7 @@ Follow these simple steps to get started with **AI Workout Planner**:
 
 ---
 
-## 📸 **Screenshots**  
 
-| Feature | Screenshot |  
-|---------|------------|  
-| **Home Page** | ![Home](https://via.placeholder.com/800x400?text=Screenshot+1) |  
-| **Workout Generator** | ![Workout](https://via.placeholder.com/800x400?text=Screenshot+2) |  
-| **Responsive Design** | ![Responsive](https://via.placeholder.com/800x400?text=Screenshot+3) |  
-
----
 
 ## 💻 Live Demo  
 

@@ -1,9 +1,3 @@
-
-
-Here’s the updated, detailed, and creative version of your README file:  
-
----
-
 ![AI Workout Planner](https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&q=80&w=1200)
 
 # 🏋️‍♂️ AI Workout Planner  
@@ -143,12 +137,6 @@ We love contributions! Whether you want to suggest features, report bugs, or enh
 ## 📝 License  
 
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.  
-
----
-
-## 💫 Show Your Support  
-
-If you find **AI Workout Planner** helpful, give it a ⭐️ on GitHub and share it with your friends!  
 
 ---
 
